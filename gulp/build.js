@@ -16,21 +16,21 @@ module.exports = function(options) {
 	gulp.task('build:js',['scripts'], function () {
 		return gulp.src(options.tmp + '/serve/app/index.js')
 			.pipe($.rename(function (path) {
-				path.basename = "craft"
+				path.basename = "utils"
 			}))
 			.pipe(gulp.dest(options.dist + '/'))
 			.pipe($.size({ title: options.dist + '/', showFiles: true }));
 	});
 
 
-	gulp.task('build-dependent:js',['scripts:dependent'], function () {
-		return gulp.src(options.tmp + '/serve/app/index.js')
-			.pipe($.rename(function (path) {
-				path.basename = "craft-dependent"
-			}))
-			.pipe(gulp.dest(options.dist + '/'))
-			.pipe($.size({ title: options.dist + '/', showFiles: true }));
-	});
+	// gulp.task('build-dependent:js',['scripts:dependent'], function () {
+	// 	return gulp.src(options.tmp + '/serve/app/index.js')
+	// 		.pipe($.rename(function (path) {
+	// 			path.basename = "utils-dependent"
+	// 		}))
+	// 		.pipe(gulp.dest(options.dist + '/'))
+	// 		.pipe($.size({ title: options.dist + '/', showFiles: true }));
+	// });
 
 	gulp.task('build:examples', function (done) {
 		runSequence('clean:examples','html:examples','copy:scripts:examples','copy:others:examples',done)
@@ -81,7 +81,7 @@ module.exports = function(options) {
 	});
 
 	gulp.task('build',function(done){
-		runSequence('clean','build:js','build-dependent:js','mincopy:js',done);
+		runSequence('clean','build:js','mincopy:js',done);
 	});
 
 	gulp.task('deploy:examples',['build:examples'],function(done){

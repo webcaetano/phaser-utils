@@ -69,7 +69,7 @@ self.dotsBetween = function(point1,point2,amount){
 			x:point1.x + Math.cos(a)*currentPos,
 			y:point1.y + Math.sin(a)*currentPos
 		}
-	})
+	});
 }
 
 self.dotLine = function(point1,point2,amount){

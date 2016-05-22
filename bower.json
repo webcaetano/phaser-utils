@@ -1,6 +1,6 @@
 {
-  "name": "phaser-craft",
-  "version": "1.1.1",
+  "name": "phaser-utils",
+  "version": "1.0.0",
   "dependencies": {},
   "devDependencies": {
     "stats.js": "*",
@@ -9,7 +9,7 @@
     "phaser": "~2.4.7",
     "phaser-craft": "~1.1.1"
   },
-  "main": "build/craft.js",
+  "main": "build/utils.js",
   "externals": {
     "phaser": "Phaser",
     "lodash": "_",
@@ -30,10 +30,5 @@
     "src",
     "test",
     ".tmp"
-  ],
-  "overrides": {
-    "phaser": {
-      "main": "build/custom/phaser-arcade-physics.js"
-    }
-  }
+  ]
 }
