@@ -2,12 +2,42 @@
 
 @webcaetano phaser gaming utils
 
-Docs comming soon.
-
-### Dependencies 
+## Dependencies 
 
 - `Phaser`
 - `lodash`
+
+## Install
+
+```
+bower install phaser-utils
+```
+
+## Usage 
+
+Docs comming soon.
+
+## Development
+
+### Install
+
+```
+git clone git@github.com:webcaetano/phaser-utils.git
+cd phaser-utils
+npm install
+```
+
+### Development Server
+
+```
+gulp
+```
+
+### Build
+
+```
+gulp build
+```
 
 [bower-img]: https://img.shields.io/bower/v/phaser-utils.svg?style=flat-square
 [bower-url]: https://github.com/webcaetano/phaser-utils
