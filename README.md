@@ -1,2 +1,3 @@
 # phaser-utils
-@webcaetano phaser utils
+
+@webcaetano phaser gaming utils
