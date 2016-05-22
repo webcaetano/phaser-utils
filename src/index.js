@@ -63,14 +63,13 @@ self.dotsBetween = function(point1,point2,amount){
 	var resp = [];
 	var dist = self.dist(point1,point2);
 	var a = self.angleBetween(point1,point2);
-	_.each(new Array(amount),function(val,i){
+	return _.map(new Array(amount),function(val,i){
 		var currentPos = (dist/(amount+1))*(i+1);
-		resp.push({
+		return {
 			x:point1.x + Math.cos(a)*currentPos,
 			y:point1.y + Math.sin(a)*currentPos
-		});
+		}
 	})
-	return resp;
 }
 
 self.dotLine = function(point1,point2,amount){
