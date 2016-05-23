@@ -144,7 +144,7 @@ self.renameAttr = function(obj,name,replace){
 self.loadAssets = function(game,assets){
 	var i;
 	for(i in assets.atlas) {
-		game.load.atlasJSONHash(i, assets.atlas[i].image, self.ifTrue(assets.atlas[i].jsonUrl), self.ifTrue(assets.atlas[i].json));
+		game.load.atlasJSONHash(i, assets.atlas[i].image, assets.atlas[i].jsonUrl, assets.atlas[i].json);
 	}
 	for(i in assets.images) game.load.image(i, assets.images[i]);
 	for(i in assets.sprites) game.load.spritesheet(i, assets.sprites[i].image, assets.sprites[i].width, assets.sprites[i].height, assets.sprites[i].frames);
