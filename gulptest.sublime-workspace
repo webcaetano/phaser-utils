@@ -1,0 +1,2297 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"ph",
+				"phaser-utils"
+			],
+			[
+				"an",
+				"anim"
+			],
+			[
+				"star",
+				"starEffect"
+			],
+			[
+				"ob",
+				"obj1"
+			],
+			[
+				"hero",
+				"heroAttr"
+			],
+			[
+				"ge",
+				"generateData"
+			],
+			[
+				"pla",
+				"playHint"
+			],
+			[
+				"al",
+				"alert"
+			],
+			[
+				"me",
+				"menuBottom"
+			],
+			[
+				"ac",
+				"actionBtn"
+			],
+			[
+				"re",
+				"retryBtn"
+			],
+			[
+				"deb",
+				"debugSetup"
+			],
+			[
+				"boss",
+				"bossBar"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"bos",
+				"bossBar"
+			],
+			[
+				"frame",
+				"frameName〔variable〕"
+			],
+			[
+				"def",
+				"defaults"
+			],
+			[
+				"get",
+				"getHeroes"
+			],
+			[
+				"bo",
+				"borderColor"
+			],
+			[
+				"de",
+				"defaults"
+			],
+			[
+				"S",
+				"Sinusoidal"
+			],
+			[
+				"ene",
+				"enemyShooter"
+			],
+			[
+				"bea",
+				"beamDelay"
+			],
+			[
+				"beam",
+				"beamDmg"
+			],
+			[
+				"mode",
+				"modeChange"
+			],
+			[
+				"cre",
+				"createPlayer"
+			],
+			[
+				"pn",
+				"pendingDestroy"
+			],
+			[
+				"even",
+				"events"
+			],
+			[
+				"sp",
+				"spriteBlank"
+			],
+			[
+				"be",
+				"beamFrames"
+			],
+			[
+				"player",
+				"playerId"
+			],
+			[
+				"play",
+				"playerId"
+			],
+			[
+				"que",
+				"queryOutput"
+			],
+			[
+				"tes",
+				"testLayers〔variable〕"
+			],
+			[
+				"st",
+				"stageBody"
+			],
+			[
+				"ball",
+				"ballBody"
+			],
+			[
+				"rad",
+				"radEffect"
+			],
+			[
+				"browser",
+				"browserSync"
+			],
+			[
+				"in",
+				"inverse"
+			],
+			[
+				"l",
+				"layers〔variable〕"
+			],
+			[
+				"pa",
+				"particle"
+			],
+			[
+				"hit",
+				"hitDelay"
+			],
+			[
+				"mo",
+				"mountainRespawn"
+			],
+			[
+				"cta",
+				"ctaLayer"
+			],
+			[
+				"y",
+				"yAxis"
+			],
+			[
+				"la",
+				"layer"
+			],
+			[
+				"add",
+				"addOnce"
+			],
+			[
+				"spr",
+				"spriteData"
+			],
+			[
+				"spin",
+				"spinVel"
+			],
+			[
+				"fra",
+				"frameName"
+			],
+			[
+				"up",
+				"updateView"
+			],
+			[
+				"init",
+				"initPos"
+			],
+			[
+				"menu",
+				"menuInitPos〔variable〕"
+			],
+			[
+				"mas",
+				"maskObj"
+			],
+			[
+				"thu",
+				"thumbs"
+			],
+			[
+				"place",
+				"placeScrollBar"
+			],
+			[
+				"cat",
+				"catId"
+			],
+			[
+				"sho",
+				"showSlot〔function〕"
+			],
+			[
+				"t",
+				"thumb"
+			],
+			[
+				"cols",
+				"cols*0.5"
+			],
+			[
+				"slo",
+				"slotsGroup"
+			],
+			[
+				"bac",
+				"backAlso"
+			],
+			[
+				"men",
+				"menuData〔variable〕"
+			],
+			[
+				"ran",
+				"randomMove"
+			],
+			[
+				"val",
+				"valGroups"
+			],
+			[
+				"sq",
+				"square"
+			],
+			[
+				"new",
+				"newCells〔variable〕"
+			],
+			[
+				"dot",
+				"dotTween"
+			],
+			[
+				"gri",
+				"gridSize"
+			],
+			[
+				"rec",
+				"rectangle"
+			],
+			[
+				"qu",
+				"query_string"
+			],
+			[
+				"prot",
+				"protos"
+			],
+			[
+				"w",
+				"webpackOptions"
+			],
+			[
+				"u",
+				"utils"
+			],
+			[
+				"ma",
+				"margin-right"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bkg",
+				"bkg3"
+			],
+			[
+				"bk",
+				"bkg1"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"arg",
+				"argv〔variable〕"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"ru",
+				"runSequence"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"remove",
+				"removeClass〔function〕"
+			],
+			[
+				"bor",
+				"border-color"
+			],
+			[
+				"font",
+				"fontWeigth"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"a",
+				"atomus"
+			],
+			[
+				"fo",
+				"formats"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"ag",
+				"argv"
+			],
+			[
+				"po",
+				"profile"
+			],
+			[
+				"v",
+				"visible"
+			],
+			[
+				"colorp",
+				"colorPickerCells"
+			],
+			[
+				"ex",
+				"extend"
+			],
+			[
+				"team",
+				"teams"
+			],
+			[
+				"ro",
+				"row-odd"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"tum",
+				"tumbs"
+			],
+			[
+				"im",
+				"imageSize"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"on",
+				"onInputDown"
+			],
+			[
+				"sta",
+				"startDown"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"remo",
+				"removeClass〔function〕"
+			],
+			[
+				"war",
+				"wrapInner"
+			],
+			[
+				"ove",
+				"overflow-y"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"d",
+				"defaults"
+			],
+			[
+				"di",
+				"div	Tag"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"log",
+				"logtime"
+			],
+			[
+				"cr",
+				"crypto"
+			],
+			[
+				"fin",
+				"findAndModify〔variable〕"
+			],
+			[
+				"b",
+				"binaryString"
+			],
+			[
+				"colo",
+				"colors"
+			],
+			[
+				"players",
+				"players_misc"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"da",
+				"data2"
+			],
+			[
+				"resp",
+				"resp2〔variable〕"
+			],
+			[
+				"pro",
+				"profile"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/andre/gulptest/package.json",
+			"settings":
+			{
+				"buffer_size": 332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andre/gulptest/test.js",
+			"settings":
+			{
+				"buffer_size": 941,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andre/gulptest/gulpfile.js",
+			"settings":
+			{
+				"buffer_size": 2441,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andre/gulptest/index.js",
+			"settings":
+			{
+				"buffer_size": 1528,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andre/gulptest/test/sum.js",
+			"settings":
+			{
+				"buffer_size": 182,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andre/gulptest/test/minus.js",
+			"settings":
+			{
+				"buffer_size": 172,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andre/gulptest/gulp/ingredients.js",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/andre/gulptest/README.md",
+			"settings":
+			{
+				"buffer_size": 6,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"enalbe",
+				"Package Control: Enable Package"
+			],
+			[
+				"syn jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"previw",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"o",
+				"Local History: Open"
+			],
+			[
+				"op",
+				"Local History: Open"
+			],
+			[
+				"his",
+				"Local History: Open"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"p",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"package contr",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"mar",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"gulp",
+				"Gulp (silent)"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"Local History: Open"
+			],
+			[
+				"oep",
+				"Local History: Open"
+			],
+			[
+				"pack l",
+				"Package Control: List Packages"
+			],
+			[
+				"pack lis",
+				"Package Control: List Packages"
+			],
+			[
+				"wa",
+				"Word Wrap: Toggle"
+			],
+			[
+				"termin",
+				"Terminal: Open in project folder"
+			],
+			[
+				"temrin",
+				"TerminalProjectFolder: open terminal"
+			],
+			[
+				"termi",
+				"Terminal: Open in project folder"
+			],
+			[
+				"packi",
+				"Package Control: Install Package"
+			],
+			[
+				"oepn",
+				"Terminal: Open"
+			],
+			[
+				"open ter",
+				"Terminal: Open in project folder"
+			],
+			[
+				"package r",
+				"Package Control: Remove Package"
+			],
+			[
+				"histo",
+				"Local History: Open"
+			],
+			[
+				"hsi",
+				"Local History: Open"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"ope",
+				"Local History: Open"
+			],
+			[
+				"show",
+				"memTask: Show spent time"
+			],
+			[
+				"show time",
+				"memTask: Show spent time"
+			],
+			[
+				"less",
+				"Set Syntax: Less"
+			],
+			[
+				"Snippet: for",
+				"Snippet: foreach …"
+			],
+			[
+				"set syn jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Snippet: ",
+				"Snippet: if"
+			],
+			[
+				"pakc",
+				"Package Control: Add Channel"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Channel"
+			],
+			[
+				"hist",
+				"Local History: Browse"
+			]
+		],
+		"width": 514.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"dir",
+			"ls",
+			"dir",
+			"cd",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/andre/gulptest",
+		"/C/Users/andre/gulptest/docs",
+		"/C/Users/andre/gulptest/gulp",
+		"/C/Users/andre/gulptest/test"
+	],
+	"file_history":
+	[
+		"/C/Users/andre/gulptest/docs/data.json",
+		"/C/Users/andre/gulptest/npm-debug.log",
+		"/C/Users/andre/gulptest/gulp/oven.js",
+		"/C/Users/andre/gulptest/.jshintrc",
+		"/C/Users/andre/phaser-utils/package.json",
+		"/C/Users/andre/phaser-utils/test/app/index.js",
+		"/C/Users/andre/phaser-utils/bower_components/phaser-craft/bower.json",
+		"/C/Users/andre/phaser-utils/src/index.js",
+		"/C/Users/andre/phaser-utils/bower_components/phaser-craft/.editorconfig",
+		"/C/Users/andre/phaser-utils/bower_components/phaser-craft/LICENSE.md",
+		"/C/Users/andre/phaser-utils/bower.json",
+		"/C/Users/andre/Dropbox/works/projectsST3/utils.sublime-project",
+		"/C/Users/andre/phaser-utils/gulp/scripts.js",
+		"/C/Users/andre/phaser-utils/test/app/example2.js",
+		"/C/Users/andre/phaser-utils/test/index.html",
+		"/C/Users/andre/phaser-utils/test/app/test.js",
+		"/C/Users/andre/phaser-utils/test/app/modules/utils.js",
+		"/C/Users/andre/phaser-utils/.tmp/serve/app/index.js",
+		"/C/Users/andre/phaser-utils/README.md",
+		"/C/Users/andre/mysqldump/index.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike_v2/js/game/particles.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike_v2/js/game/data.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike_v2/js/game/misc.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike_v2/js/game/stage.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike_v2/js/modules/utils.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike_v2/index.html",
+		"/C/Users/Andre/MEGA/jeessee/projects/monster_strike/js/game.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/modules/utils.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/misc.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/package.json",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/data.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/stage.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/index.html",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/players.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/README.md",
+		"/C/Users/andre/.sublime/history/C/Users/Andre/MEGA/jeessee/projects/monster_strike/js/2016-04-15_12.54.37.game.js",
+		"/C/Users/andre/.sublime/history/C/Users/Andre/MEGA/jeessee/projects/monster_strike/js/2016-04-12_12.58.36.game.js",
+		"/C/Users/andre/.sublime/history/C/Users/Andre/MEGA/jeessee/projects/monster_strike/js/2016-04-12_12.37.00.game.js",
+		"/C/Users/andre/.sublime/history/C/Users/Andre/MEGA/jeessee/projects/monster_strike/js/2016-04-12_12.37.24.game.js",
+		"/C/Users/andre/.sublime/history/C/Users/Andre/MEGA/jeessee/projects/monster_strike/js/2016-04-14_18.22.37.game.js",
+		"/C/Users/andre/.sublime/history/C/Users/Andre/MEGA/jeessee/projects/monster_strike/js/2016-04-14_18.25.31.game.js",
+		"/C/Users/andre/.sublime/history/C/Users/Andre/MEGA/jeessee/projects/monster_strike/js/2016-04-12_12.51.39.game.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/Gruntfile.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/cta.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/background.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/particles.js",
+		"/C/Users/andre/Dropbox/phaser-box2d-plugin-standard-v102/examples/tilemap.html",
+		"/C/Users/andre/Dropbox/phaser-box2d-plugin-standard-v102/examples/pinball.html",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/lib/box2d-plugin-full.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/game.js",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/gulp/server.js",
+		"/C/Users/andre/Dropbox/works/projectsST3/monster_strike.sublime-project",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/preloader.js",
+		"/C/Users/andre/Downloads/RCX_rWOE.ST/RCX/RCX.exe",
+		"/C/Users/andre/MEGA/jeessee/projects/monster_strike/js/game/debug.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/particles.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/land.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/misc.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/controllers.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/modules/utils.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/hero.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/cta.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/ui.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/preloader.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/data.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/js/game/clouds.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/index.html",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/gulp/server.js",
+		"/C/Users/andre/MEGA/jeessee/projects/war_dragons_tunnel/Gruntfile.js",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/js/game/test.js",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/gulp/server.js",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/js/preloader.js",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/Gruntfile.js",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/README.md",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/js/game/misc.js",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/js/modules/utils.js",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/index.html",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/js/game/controllers.js",
+		"/C/Users/andre/MEGA/jeessee/projects/wod_galaga/js/game.js",
+		"/C/Users/andre/MEGA/jeessee/projects/cs_covet/js/game/data.js",
+		"/C/Users/andre/MEGA/jeessee/projects/cs_covet/js/modules/craft.js",
+		"/C/Users/andre/MEGA/jeessee/projects/cs_covet/js/game/background.js",
+		"/C/Users/andre/MEGA/jeessee/projects/cs_covet/js/game/body.js",
+		"/C/Users/andre/MEGA/jeessee/projects/cs_covet/js/preloader.js",
+		"/C/Users/andre/MEGA/jeessee/projects/cs_covet/index.html",
+		"/C/Users/andre/MEGA/jeessee/projects/cs_covet/js/game/thumbnails.js",
+		"/C/Users/andre/socketPhaserGame/src/app/game.js",
+		"/C/Users/andre/Dropbox/works/projectsST3/socketPhaserGame.sublime-project",
+		"/C/Users/andre/socketPhaserGame/bower_components/phaser-craft/src/objects/circle.js",
+		"/C/Users/andre/socketPhaserGame/gulp/templates/controller.js",
+		"/C/Users/andre/socketPhaserGame/src/app/game/floor.js",
+		"/C/Users/andre/socketPhaserGame/src/app/game/controllers.js",
+		"/C/Users/andre/socketPhaserGame/src/app/game/misc.js",
+		"/C/Users/andre/socketPhaserGame/src/app/game/monsters.js",
+		"/C/Users/andre/socketPhaserGame/src/app/index.js",
+		"/C/Users/andre/socketPhaserGame/src/css/fonts.css",
+		"/C/Users/andre/socketPhaserGame/src/index.html",
+		"/C/Users/andre/socketPhaserGame/src/app/data/monsters.js",
+		"/C/Users/andre/socketPhaserGame/src/app/modules/gui.js",
+		"/C/Users/andre/socketPhaserGame/src/app/preload.js",
+		"/C/Users/andre/socketPhaserGame/src/texture/atlas.json",
+		"/C/Users/andre/socketPhaserGame/bower.json",
+		"/C/Users/andre/socketPhaserGame/package.json",
+		"/C/Users/andre/socketPhaserGame/gulp/scripts.js",
+		"/C/Users/andre/socketPhaserGame/README.md",
+		"/C/Users/andre/socketPhaserGame/src/app/game/debug.js",
+		"/C/Users/andre/socketPhaserGame/src/app/json/monsters.json",
+		"/C/Users/andre/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/andre/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/andre/socketPhaserGame/src/json/altas.json",
+		"/C/Users/andre/craft/README.md",
+		"/C/Users/andre/Desktop/hosts",
+		"/C/Users/andre/craft/test/app/game.js",
+		"/C/Users/andre/craft/examples/index.html",
+		"/C/Users/andre/craft/test/app/example1.js",
+		"/C/Users/andre/craft/test/app/example2.js",
+		"/C/Users/andre/craft/gulp/build.js",
+		"/C/Users/andre/craft/src/prototypes/fixPos.js",
+		"/C/Users/andre/craft/src/prototypes/copyPos.js",
+		"/C/Users/andre/craft/src/prototypes/align.js",
+		"/C/Users/andre/craft/src/protos.js",
+		"/C/Users/andre/craft/src/objects/circle.js",
+		"/C/Users/andre/craft/src/objects/dot.js",
+		"/C/Users/andre/craft/src/objects/group.js",
+		"/C/Users/andre/craft/src/objects/rect.js",
+		"/C/Users/andre/craft/src/objects/sprite.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"C:/Users/Andre/MEGA/jeessee/projects/monster_strike/js",
+			"C:/Users/Andre/MEGA/www/heroes/src/app",
+			"<current file>",
+			"C:/Users/Andre/MEGA/www/heroes/src/node",
+			"C:\\Users\\Andre\\Seafile\\www\\flaviocae\\app\\emails",
+			"C:\\Users\\Andre\\Seafile\\www\\flaviocae\\app\\views",
+			"C:\\Users\\Andre\\Seafile\\www\\flaviocae\\app\\styles\\less",
+			"C:\\Users\\Andre\\Seafile\\www\\flaviocae\\app\\styles",
+			"C:\\Users\\Andre\\Seafile\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Seafile\\www\\flaviocae\\app\\views",
+			"C:\\Users\\Andre\\Seafile\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\script",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\views",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\layout\\fc\\styles\\less",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\layout\\fc\\styles\\less",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\server",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\layout\\fc\\styles\\less",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\layout\\fc\\styles\\less",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\layout\\fc\\styles\\less",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\server",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\layout\\fc\\styles\\less",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\styles\\less",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\server",
+			"C:\\Users\\Andre\\Dropbox\\www\\flaviocae\\app\\scripts"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"func",
+			"setAtlasFrame",
+			"getDump",
+			")))",
+			"radP",
+			"blinkAnimation",
+			"blink",
+			"shake",
+			"loseHP",
+			"hitAnimation",
+			"angle",
+			"a",
+			"radP",
+			"hitDelay",
+			"playTutorial",
+			"blink",
+			"createPlayer",
+			"enemies",
+			"createPlayer",
+			"radP",
+			"getPointSide",
+			"getInputHoldData",
+			"arrow",
+			"hand",
+			",\n",
+			"\n				",
+			"arrow",
+			"skip_middle_lvl",
+			"></script>",
+			"die",
+			"players",
+			"self.enemies.ene",
+			"\n	",
+			"self.enemi",
+			"\n	",
+			"self.heroe",
+			"\n	",
+			"particle",
+			"cross",
+			"queryAABB",
+			"show",
+			");\n",
+			"ball",
+			"if(player.test) player.test.pendingDestroy = true;\n		player.test = null",
+			"bkg",
+			"stage",
+			"kinema",
+			"kine",
+			");\n",
+			"kin",
+			"dinam",
+			"b2Filter",
+			"filter",
+			"phaser",
+			"b2Fil",
+			"SetFilterDa",
+			"setFilterDA",
+			"ang",
+			"flipperSpeed",
+			"dist",
+			"magin",
+			"dist",
+			"cs_covet",
+			"scope.debugSetup",
+			"leftPress",
+			"rightPress",
+			"scope.rightPress",
+			"scope.leftPress",
+			"m",
+			"dots",
+			"altas",
+			"altas3",
+			"Phaser",
+			"Quadratic",
+			"wod_galaga",
+			"dragonMoveRight",
+			"dragonStop",
+			"dragonMoveLeft",
+			"cs_covet",
+			"bar.bkg",
+			"setBodyWear",
+			"dots",
+			"rect",
+			"clear",
+			"cellFlood",
+			"data",
+			"getPo",
+			"wall",
+			"deault",
+			"6",
+			"drawPolygon",
+			"platform",
+			"_self.tudo.x",
+			"getQuarterPos",
+			"MuseoSans-500",
+			"MuseoSans",
+			"grid",
+			"“",
+			"”",
+			"json",
+			"file:///C:/Users/andre/appdata/local/temp/61.html",
+			"$mid",
+			"query_string",
+			"700",
+			";",
+			"gitignore",
+			"style",
+			"stle",
+			"isArray",
+			"name",
+			"include",
+			"webpack",
+			"pro",
+			"padLeft",
+			"Phaser",
+			"_.",
+			"for(var ",
+			".f",
+			"desk.avatar",
+			"loadData",
+			"desk",
+			"setFramePart",
+			"\"z\"",
+			"\"color\"",
+			"\"",
+			"colorPickerCells",
+			"flaviocae",
+			"input"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"self",
+			"desk",
+			"_banana",
+			"obj",
+			"t",
+			"\"reg\"",
+			"?>",
+			"<?",
+			"session",
+			"v",
+			":",
+			"MEGA",
+			"@",
+			"$",
+			"styles",
+			"3215-0396",
+			"",
+			"index.html",
+			" ",
+			"",
+			" ",
+			"",
+			" ",
+			"",
+			" ",
+			"",
+			"."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/andre/gulptest/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								165,
+								165
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Seti_UI/icons/Langs/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/andre/gulptest/test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 941,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								604,
+								604
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/andre/gulptest/gulpfile.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2441,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2186,
+								1251
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 855.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/andre/gulptest/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/andre/gulptest/test/sum.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								182,
+								182
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/Users/andre/gulptest/test/minus.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/C/Users/andre/gulptest/gulp/ingredients.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"open_with_edit": true,
+							"syntax": "Packages/Better JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/C/Users/andre/gulptest/README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"editorconfig": true,
+							"ensure_newline_at_eof_on_save": true,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false,
+							"trim_trailing_white_space_on_save": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.elm_type":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"output.vcs":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
+	"project": "gulptest.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"eff",
+				"js\\game\\effects.js"
+			],
+			[
+				"ut",
+				"js\\modules\\utils.js"
+			],
+			[
+				"mi",
+				"js\\game\\misc.js"
+			],
+			[
+				"pa",
+				"js\\game\\particles.js"
+			],
+			[
+				"pla",
+				"js\\game\\players.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"mis",
+				"js\\game\\misc.js"
+			],
+			[
+				"play",
+				"js\\game\\players.js"
+			],
+			[
+				"cta",
+				"js\\game\\cta.js"
+			],
+			[
+				"u",
+				"js\\modules\\utils.js"
+			],
+			[
+				"game",
+				"js\\game.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"dat",
+				"js\\game\\data.js"
+			],
+			[
+				"re",
+				"README.md"
+			],
+			[
+				"grun",
+				"Gruntfile.js"
+			],
+			[
+				"ba",
+				"js\\game\\background.js"
+			],
+			[
+				"uti",
+				"js\\modules\\utils.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"gga",
+				"js\\game\\game.js"
+			],
+			[
+				"pre",
+				"js\\preloader.js"
+			],
+			[
+				"de",
+				"js\\game\\debug.js"
+			],
+			[
+				"her",
+				"js\\game\\hero.js"
+			],
+			[
+				"misc",
+				"js\\game\\misc.js"
+			],
+			[
+				"land",
+				"js\\game\\land.js"
+			],
+			[
+				"con",
+				"js\\game\\controllers.js"
+			],
+			[
+				"cont",
+				"js\\game\\controllers.js"
+			],
+			[
+				"mic",
+				"js\\game\\misc.js"
+			],
+			[
+				"craft",
+				"js\\modules\\craft.js"
+			],
+			[
+				"prel",
+				"js\\preloader.js"
+			],
+			[
+				"prelo",
+				"js\\preloader.js"
+			],
+			[
+				"gui",
+				"src\\app\\modules\\gui.js"
+			],
+			[
+				"flo",
+				"src\\app\\game\\floor.js"
+			],
+			[
+				"mons",
+				"src\\app\\game\\monsters.js"
+			],
+			[
+				"gma",
+				"src\\app\\game.js"
+			],
+			[
+				"gam",
+				"src\\app\\game.js"
+			],
+			[
+				"floo",
+				"src\\app\\game\\floor.js"
+			],
+			[
+				"alig",
+				"src\\prototypes\\align.js"
+			],
+			[
+				"bui",
+				"gulp\\build.js"
+			],
+			[
+				"ex",
+				"test\\app\\example2.js"
+			],
+			[
+				"exma",
+				"test\\app\\example1.js"
+			],
+			[
+				"ser",
+				"gulp\\server.js"
+			],
+			[
+				"wat",
+				"gulp\\watch.js"
+			],
+			[
+				"wa",
+				"gulp\\watch.js"
+			],
+			[
+				"buidl.js",
+				"gulp\\build.js"
+			],
+			[
+				"group",
+				"src\\objects\\group.js"
+			],
+			[
+				"gra",
+				"src\\objects\\graphic.js"
+			],
+			[
+				"dot",
+				"src\\objects\\dot.js"
+			],
+			[
+				"cir",
+				"src\\objects\\circle.js"
+			],
+			[
+				"buil",
+				"gulp\\build.js"
+			],
+			[
+				"main.js",
+				"src\\node\\routes\\main.js"
+			],
+			[
+				"new",
+				"src\\app\\controllers\\newTeam.js"
+			],
+			[
+				"ava",
+				"src\\app\\modules\\avatar.phaser.js"
+			],
+			[
+				"injec",
+				"gulp\\inject.js"
+			],
+			[
+				"index.js",
+				"src\\node\\routes\\index.js"
+			],
+			[
+				"index.",
+				"src\\index.html"
+			],
+			[
+				"github",
+				"gulp\\github.js"
+			],
+			[
+				"met",
+				"src\\node\\mets.js"
+			],
+			[
+				"uit",
+				"src\\app\\modules\\utils.js"
+			],
+			[
+				"sprit",
+				"gulp\\sprite.js"
+			],
+			[
+				"mets",
+				"src\\node\\mets.js"
+			],
+			[
+				"kick.",
+				"src\\app\\controllers\\kick.js"
+			],
+			[
+				"rouidne",
+				"src\\node\\routes\\index.js"
+			],
+			[
+				"lef",
+				"src\\styles\\left-layout.less"
+			],
+			[
+				"newt",
+				"src\\views\\newTeam.html"
+			],
+			[
+				"team",
+				"src\\views\\team.html"
+			],
+			[
+				"avatar",
+				"src\\app\\controllers\\avatar.js"
+			],
+			[
+				"avat",
+				"src\\views\\avatar.html"
+			],
+			[
+				"teamc",
+				"src\\styles\\team-config.page.less"
+			],
+			[
+				"index.le",
+				"src\\styles\\index.less"
+			],
+			[
+				"mid",
+				"src\\views\\mid.html"
+			],
+			[
+				"inde.l",
+				"src\\styles\\index.less"
+			],
+			[
+				"ppla",
+				"gulp\\templates\\page.html"
+			],
+			[
+				"left",
+				"src\\styles\\left-layout.less"
+			],
+			[
+				"appinde",
+				"src\\app\\index.js"
+			],
+			[
+				"rouind",
+				"src\\node\\routes\\index.js"
+			],
+			[
+				"mixi",
+				"src\\styles\\mixins.less"
+			],
+			[
+				"mixins",
+				"src\\styles\\mixins.less"
+			],
+			[
+				"mast",
+				"src\\app\\controllers\\master.js"
+			],
+			[
+				"mets.js",
+				"src\\app\\modules\\mets.js"
+			],
+			[
+				"mets.j",
+				"src\\node\\mets.js"
+			],
+			[
+				"contrmas",
+				"src\\app\\controllers\\master.js"
+			],
+			[
+				"contrmaste",
+				"src\\app\\controllers\\master.js"
+			],
+			[
+				"log",
+				"src\\views\\partials\\logModal.html"
+			],
+			[
+				"top",
+				"src\\views\\partials\\top.html"
+			],
+			[
+				"cad",
+				"src\\views\\partials\\cadModal.html"
+			],
+			[
+				"appindex",
+				"src\\app\\index.js"
+			],
+			[
+				"left.",
+				"src\\styles\\left-layout.less"
+			],
+			[
+				"logmo",
+				"src\\views\\partials\\logModal.html"
+			],
+			[
+				"roo",
+				"src\\app\\controllers\\root.js"
+			],
+			[
+				"root",
+				"src\\app\\controllers\\root.js"
+			],
+			[
+				"serv",
+				"src\\node\\server.js"
+			],
+			[
+				"avatar.js",
+				"src\\app\\modules\\avatar.js"
+			],
+			[
+				"sprite",
+				"gulp\\sprite.js"
+			],
+			[
+				"avatar.j",
+				"src\\app\\modules\\avatar.js"
+			],
+			[
+				"teamconfig",
+				"src\\styles\\team-config.page.less"
+			],
+			[
+				"eml",
+				"src\\node\\emblem.js"
+			],
+			[
+				"wc",
+				"src\\app\\services\\wc.js"
+			],
+			[
+				"emble",
+				"src\\app\\modules\\emblem.js"
+			],
+			[
+				"teamconfig.js",
+				"src\\app\\controllers\\teamConfig.js"
+			],
+			[
+				"team.js",
+				"src\\node\\routes\\teams.js"
+			],
+			[
+				"run",
+				"src\\app\\controllers\\run.js"
+			],
+			[
+				"team.p",
+				"src\\styles\\team.page.less"
+			],
+			[
+				"team.html",
+				"src\\views\\team.html"
+			],
+			[
+				"rouinde",
+				"src\\node\\routes\\index.js"
+			],
+			[
+				"colo",
+				"src\\app\\data\\colorPickerCells.js"
+			],
+			[
+				"team.",
+				"src\\styles\\team.page.less"
+			],
+			[
+				"elf",
+				"src\\styles\\left-layout.less"
+			],
+			[
+				"rouin",
+				"src\\node\\routes\\index.js"
+			],
+			[
+				"team.ht",
+				"src\\views\\team.html"
+			],
+			[
+				"embl",
+				"src\\app\\modules\\emblem.js"
+			],
+			[
+				"newte",
+				"src\\app\\controllers\\newTeam.js"
+			],
+			[
+				"play.j",
+				"src\\app\\controllers\\player.js"
+			],
+			[
+				"avata",
+				"src\\app\\controllers\\avatar.js"
+			],
+			[
+				"avatarj",
+				"src\\app\\modules\\avatar.js"
+			],
+			[
+				"wc.",
+				"src\\app\\services\\wc.js"
+			],
+			[
+				"reg.",
+				"src\\app\\controllers\\reg.js"
+			],
+			[
+				"play.html",
+				"src\\views\\player.html"
+			],
+			[
+				"auth",
+				"src\\node\\routes\\auth.js"
+			],
+			[
+				"rouindex",
+				"src\\node\\routes\\index.js"
+			],
+			[
+				"players",
+				"src\\app\\controllers\\player.js"
+			],
+			[
+				"mt",
+				"src\\node\\mets.js"
+			],
+			[
+				"cp",
+				"src\\styles\\cp-teams.page.less"
+			],
+			[
+				"server",
+				"gulp\\server.js"
+			],
+			[
+				"mysql",
+				"src\\node\\mysql.js"
+			],
+			[
+				"cadm",
+				"src\\views\\partials\\cadModal.html"
+			],
+			[
+				"spri",
+				"gulp\\sprite.js"
+			],
+			[
+				"route",
+				"src\\node\\routes\\index.js"
+			],
+			[
+				"reg",
+				"src\\app\\controllers\\reg.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\gulp-elm.sublime-project"
+			],
+			[
+				"cra",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\craft.sublime-project"
+			],
+			[
+				"yah",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\yahtzee.sublime-project"
+			],
+			[
+				"rumm",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\rummy.sublime-project"
+			],
+			[
+				"mons",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\monster_strike.sublime-project"
+			],
+			[
+				"ga",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\gameofwar.sublime-project"
+			],
+			[
+				"rum",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\rummy.sublime-project"
+			],
+			[
+				"glo",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\globals.sublime-project"
+			],
+			[
+				"ya",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\yahtzee.sublime-project"
+			],
+			[
+				"co",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\covet.sublime-project"
+			],
+			[
+				"gl",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\globals.sublime-project"
+			],
+			[
+				"wi",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\wishbone.sublime-project"
+			],
+			[
+				"cov",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\covet_voter.sublime-project"
+			],
+			[
+				"gal",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\galaga.sublime-project"
+			],
+			[
+				"gunn",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\gunner.sublime-project"
+			],
+			[
+				"g",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\galaga.sublime-project"
+			],
+			[
+				"gala",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\galaga.sublime-project"
+			],
+			[
+				"so",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\socketGame.sublime-project"
+			],
+			[
+				"dice",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\dice-with-buddies.sublime-project"
+			],
+			[
+				"gowe",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\gow_gala.sublime-project"
+			],
+			[
+				"cove",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\covet.sublime-project"
+			],
+			[
+				"war",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\war of dragon.sublime-project"
+			],
+			[
+				"wot",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\wot.sublime-project"
+			],
+			[
+				"spades",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\spades_plus.sublime-project"
+			],
+			[
+				"balck",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\blackjack.sublime-project"
+			],
+			[
+				"sock",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\socketGame.sublime-project"
+			],
+			[
+				"spa",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\spades_plus.sublime-project"
+			],
+			[
+				"wiz",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\wizz.sublime-project"
+			],
+			[
+				"cr",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\craft.sublime-project"
+			],
+			[
+				"yaht",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\yahtzee.sublime-project"
+			],
+			[
+				"trip",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\tripeaks_v2.sublime-project"
+			],
+			[
+				"ph",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\phaser-boilerplate.sublime-project"
+			],
+			[
+				"wizz",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\wizz.sublime-project"
+			],
+			[
+				"bin",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\bin.sublime-project"
+			],
+			[
+				"mq",
+				"C:\\Users\\andre\\Dropbox\\works\\projectsST3\\mq-node.sublime-project"
+			],
+			[
+				"gulpf",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\gulp-flash.sublime-project"
+			],
+			[
+				"gulp jin",
+				"C:\\Users\\Andre\\Dropbox\\web\\gulp-jinx-compiler.sublime-project"
+			],
+			[
+				"imag",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\image-scramble.sublime-project"
+			],
+			[
+				"caet",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\caetanna.sublime-project"
+			],
+			[
+				"pl",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\planes.sublime-project"
+			],
+			[
+				"ca",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\caetanna.sublime-project"
+			],
+			[
+				"cae",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\caetanna.sublime-project"
+			],
+			[
+				"c",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\caetanna.sublime-project"
+			],
+			[
+				"fla",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\flaviocae.sublime-project"
+			],
+			[
+				"br",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\brgol.sublime-project"
+			],
+			[
+				"fl",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\flaviocae.sublime-project"
+			],
+			[
+				"gulp",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\gulp-image-autohost.sublime-project"
+			],
+			[
+				"sh",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\shuffle-seed.sublime-project"
+			],
+			[
+				"seede",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\shuffle-seed.sublime-project"
+			],
+			[
+				"m",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\mq-node.sublime-project"
+			],
+			[
+				"bt",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\brgol.sublime-project"
+			],
+			[
+				"caeta",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\caetanna.sublime-project"
+			],
+			[
+				"image",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\gulp-image-resize.sublime-project"
+			],
+			[
+				"swf",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\swf-jquery.sublime-project"
+			],
+			[
+				"s",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\socketGame.sublime-project"
+			],
+			[
+				"jinx",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\jinx.sublime-project"
+			],
+			[
+				"g2",
+				"C:\\Users\\Andre\\Dropbox\\works\\projects\\g2bw.sublime-project"
+			],
+			[
+				"mysq",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\mysql-sync.sublime-project"
+			],
+			[
+				"flats",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\flats.sublime-project"
+			],
+			[
+				"s2",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\g2bw.sublime-project"
+			],
+			[
+				"caecp",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\caecp.sublime-project"
+			],
+			[
+				"caert",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\caetanna.sublime-project"
+			],
+			[
+				"crea",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\createjs.sublime-project"
+			],
+			[
+				"caete",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\createjs.sublime-project"
+			],
+			[
+				"caetan",
+				"C:\\Users\\Andre\\Dropbox\\works\\projectsST3\\caetanna.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 206.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
