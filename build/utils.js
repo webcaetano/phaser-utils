@@ -75,8 +75,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	};
 
 	self.randInRange = function (range) {
-		var a = self.rand(0, 360) * (Math.PI / 180);
-		var d = self.rand(0, range * 0.5);
+		var a = _.random(0, 360, true) * (Math.PI / 180);
+		var d = _.random(0, range * 0.5, true);
 		return {
 			x: Math.cos(a) * d,
 			y: Math.sin(a) * d
