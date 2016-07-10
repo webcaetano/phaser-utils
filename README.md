@@ -1,6 +1,6 @@
 # phaser-utils [![bower][bower-img]][bower-url] ![filesize][file-size-img]
 
-@webcaetano phaser gaming utils
+Phaser utils
 
 ## Dependencies 
 
