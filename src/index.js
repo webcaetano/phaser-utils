@@ -25,6 +25,30 @@ self.randInRange = function(range){
 	}
 }
 
+self.infityLinesIntersection = function(point1,angle1,point2,angle2) {
+	// if is parallel return null;
+	if(angle1==angle2) return null;
+
+	// get any point on the line1
+	var line1 = {
+		start:point1,
+		end:$utils.radPos(point1,angle1,50),
+	}
+
+	// get any point on the line2
+	var line2 = {
+		start:point2,
+		end:$utils.radPos(point2,angle2,50)
+	}
+
+	var a = (((line2.end.x - line2.start.x) * (line1.start.y - line2.start.y)) - ((line2.end.y - line2.start.y) * (line1.start.x - line2.start.x))) / (((line2.end.y - line2.start.y) * (line1.end.x - line1.start.x)) - ((line2.end.x - line2.start.x) * (line1.end.y - line1.start.y)));
+
+	return {
+		x:line1.start.x + (a * (line1.end.x - line1.start.x)),
+		y:line1.start.y + (a * (line1.end.y - line1.start.y))
+	};
+}
+
 self.getCenter = function(obj){
 	return {
 		x:obj.x+(obj.width*0.5),

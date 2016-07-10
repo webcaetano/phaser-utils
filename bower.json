@@ -13,8 +13,8 @@
   "externals": {
     "phaser": "Phaser",
     "lodash": "_",
-    "$craft": "$craft",
-    "$utils": "$utils",
+    "craft": "$craft",
+    "utils": "$utils",
     "stats": "Stats"
   },
   "ignore": [
