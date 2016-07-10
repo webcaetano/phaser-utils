@@ -148,16 +148,13 @@ self.randPorRange = function(val,por){
 	return self.rand(val-part,val+part);
 }
 
-self.toHHMMSS = function ($) {
-	var sec_num = parseInt($, 10);
-	var hours   = Math.floor(sec_num / 3600);
-	var minutes = Math.floor((sec_num - (hours * 3600)) / 60);
+self.toHHMMSS = function (val) {
+	var sec_num = ~~val;
+	var hours   = ~~(sec_num / 3600);
+	var minutes = ~~((sec_num - (hours * 3600)) / 60);
 	var seconds = sec_num - (hours * 3600) - (minutes * 60);
 
-	if (hours<10) hours="0"+hours;
-	if (minutes<10) minutes="0"+minutes;
-	if (seconds<10) seconds="0"+seconds;
-	return hours+':'+minutes+':'+seconds;
+	return _.padStart(hours,2,'0')+':'+_.padStart(minutes,2,'0')+':'+_.padStart(seconds,2,'0');
 }
 
 self.renameAttr = function(obj,name,replace){
