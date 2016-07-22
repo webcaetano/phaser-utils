@@ -1,34 +1,27 @@
 {
-  "name": "phaser-utils",
-  "version": "1.1.0",
-  "dependencies": {},
-  "devDependencies": {
-    "stats.js": "*",
-    "lodash": "~3.10.1",
-    "dat-gui": "git@github.com:webcaetano/dat.gui.git#53762381014f91f5d22c10515dbdec85a425c04c",
-    "phaser": "~2.4.7",
-    "phaser-craft": "~1.1.1"
-  },
-  "main": "build/utils.js",
-  "externals": {
-    "phaser": "Phaser",
-    "lodash": "_",
-    "craft": "$craft",
-    "utils": "$utils",
-    "stats": "Stats"
-  },
-  "ignore": [
-    "node_modules",
-    "bower_components",
-    ".gitignore",
-    ".gitattributes",
-    ".bowerrc",
-    "gulp",
-    ".travis.yml",
-    "gulpfile.js",
-    "package.json",
-    "src",
-    "test",
-    ".tmp"
-  ]
+	"name": "phaser-utils",
+	"version": "1.1.1",
+	"dependencies": {},
+	"devDependencies": {
+		"stats.js": "*",
+		"lodash": "~3.10.1",
+		"dat-gui": "git@github.com:webcaetano/dat.gui.git#53762381014f91f5d22c10515dbdec85a425c04c",
+		"phaser": "~2.4.7",
+		"phaser-craft": "~1.1.1"
+	},
+	"main": "build/utils.js",
+	"externals": {
+		"phaser": "Phaser",
+		"lodash": "_",
+		"craft": "$craft",
+		"utils": "$utils",
+		"stats": "Stats"
+	},
+	"ignore": [
+		"**/.*",
+		"node_modules",
+		"bower_components",
+		"test",
+		"tests"
+	]
 }
