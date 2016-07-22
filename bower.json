@@ -1,6 +1,6 @@
 {
 	"name": "phaser-utils",
-	"version": "1.1.1",
+	"version": "1.1.2",
 	"dependencies": {},
 	"devDependencies": {
 		"stats.js": "*",
@@ -20,6 +20,8 @@
 	"ignore": [
 		"**/.*",
 		"node_modules",
+		"src",
+		"gulp",
 		"bower_components",
 		"test",
 		"tests"
