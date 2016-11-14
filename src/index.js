@@ -16,14 +16,33 @@ self.ang = {
 	}
 }
 
-self.randInRange = function(range){
+self.randInRange = function(point,range){
 	var a = _.random(0,360,true) * (Math.PI / 180);
 	var d = _.random(0,range*0.5,true);
 	return {
-		x:Math.cos(a) * d,
-		y:Math.sin(a) * d
+		x:point.x + Math.cos(a) * d,
+		y:point.y + Math.sin(a) * d
 	}
 }
+
+self.elipsePos = function(point,angle,size){
+	var a = angle * (Math.PI / 180);
+	return {
+		x: point.x + Math.cos(a) * size.width/2,
+		y: point.y + Math.sin(a) * size.height/2
+	};
+}
+
+self.mod = function(n,a){
+	return ((n % a) + a) % a;
+}
+
+self.getPorInRange = function (min, max, current) {
+	if (current >= max) return 1;
+	if (current <= min) return 0;
+
+	return (current - min) / (max - min);
+};
 
 self.pointAngleIntersection = function(point1,angle1,point2,angle2) {
 	// get any point on the line1
