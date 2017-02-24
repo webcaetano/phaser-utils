@@ -236,8 +236,9 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	self.setBtn = function (obj, callback) {
 		if (callback === undefined) callback = null;
-		if (!obj || !obj.input) return;
+		if (!obj) return;
 		if (!obj.inputEnabled) obj.inputEnabled = true;
+		if (!obj.input) return;
 		obj.input.useHandCursor = true;
 		if (callback) {
 			obj.events.onInputUp.add(function (e) {
@@ -249,9 +250,11 @@ return /******/ (function(modules) { // webpackBootstrap
 
 	self.setBtnHold = function (obj, callback, callback2) {
 		if (callback === undefined) callback = null;
-		if (!obj || !obj.input) return;
+		if (!obj) return;
 		if (!obj.inputEnabled) obj.inputEnabled = true;
+		if (!obj.input) return;
 		obj.input.useHandCursor = true;
+
 		if (callback) {
 			obj.events.onInputDown.add(function (e) {
 				callback(e);
@@ -269,8 +272,9 @@ return /******/ (function(modules) { // webpackBootstrap
 		if (callback === undefined) callback = null;
 		if (callback2 === undefined) callback2 = null;
 
-		if (!obj || !obj.input) return;
+		if (!obj) return;
 		if (!obj.inputEnabled) obj.inputEnabled = true;
+		if (!obj.input) return;
 		obj.input.useHandCursor = true;
 		if (callback) {
 			obj.events.onInputOver.add(function (e) {

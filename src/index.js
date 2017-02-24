@@ -188,8 +188,9 @@ self.dist = function(obj1,obj2){
 
 self.setBtn = function(obj,callback){
 	if(callback===undefined) callback=null;
-	if(!obj || !obj.input) return;
+	if(!obj) return;
 	if(!obj.inputEnabled) obj.inputEnabled = true;
+	if(!obj.input) return;
 	obj.input.useHandCursor = true;
 	if(callback){
 		obj.events.onInputUp.add(function(e){
@@ -201,9 +202,11 @@ self.setBtn = function(obj,callback){
 
 self.setBtnHold = function(obj,callback,callback2){
 	if(callback===undefined) callback=null;
-	if(!obj || !obj.input) return;
+	if(!obj) return;
 	if(!obj.inputEnabled) obj.inputEnabled = true;
+	if(!obj.input) return;
 	obj.input.useHandCursor = true;
+
 	if(callback){
 		obj.events.onInputDown.add(function(e){
 			callback(e);
@@ -221,8 +224,9 @@ self.setHover = function(obj,callback,callback2){
 	if(callback===undefined) callback=null;
 	if(callback2===undefined) callback2=null;
 
-	if(!obj || !obj.input) return;
+	if(!obj) return;
 	if(!obj.inputEnabled) obj.inputEnabled = true;
+	if(!obj.input) return;
 	obj.input.useHandCursor = true;
 	if(callback){
 		obj.events.onInputOver.add(function(e){
