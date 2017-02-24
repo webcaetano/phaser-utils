@@ -46,13 +46,13 @@ self.pointAngleIntersection = function(point1,angle1,point2,angle2) {
 	// get any point on the line1
 	var line1 = {
 		start:point1,
-		end:$utils.radPos(point1,angle1,50),
+		end:self.radPos(point1,angle1,50),
 	}
 
 	// get any point on the line2
 	var line2 = {
 		start:point2,
-		end:$utils.radPos(point2,angle2,50)
+		end:self.radPos(point2,angle2,50)
 	}
 
 	var denominator = (((line2.end.y - line2.start.y) * (line1.end.x - line1.start.x)) - ((line2.end.x - line2.start.x) * (line1.end.y - line1.start.y)));
@@ -127,10 +127,10 @@ self.angleBetweenRad = function(point1,point2){
 }
 
 self.pointBetweenPorcent = function(point1,point2,por){
-	return $utils.radPos(
+	return self.radPos(
 		point1,
-		$utils.angleBetweenRad(point1,point2),
-		$utils.dist(point1,point2)*por
+		self.angleBetweenRad(point1,point2),
+		self.dist(point1,point2)*por
 	);
 }
 
@@ -163,21 +163,6 @@ self.getModeByValue = function(length,current,modes,ASC){
 self.randPorRange = function(val,por){
 	var part = Math.ceil(val*por/100);
 	return self.rand(val-part,val+part);
-}
-
-self.toHHMMSS = function (val) {
-	var sec_num = ~~val;
-	var hours   = ~~(sec_num / 3600);
-	var minutes = ~~((sec_num - (hours * 3600)) / 60);
-	var seconds = sec_num - (hours * 3600) - (minutes * 60);
-
-	return _.padStart(hours,2,'0')+':'+_.padStart(minutes,2,'0')+':'+_.padStart(seconds,2,'0');
-}
-
-self.renameAttr = function(obj,name,replace){
-	obj[replace] = obj[name];
-	delete obj[name];
-	return obj;
 }
 
 self.loadAssets = function(game,assets){
