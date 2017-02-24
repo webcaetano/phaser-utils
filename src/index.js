@@ -211,7 +211,7 @@ self.setBtn = function(obj,callback){
 	obj.input.useHandCursor = true;
 	if(callback){
 		obj.events.onInputUp.add(function(e){
-			callback.apply(this,[e]);
+			callback(e);
 		});
 	}
 	return obj;
@@ -225,12 +225,12 @@ self.setBtnHold = function(obj,callback,callback2){
 	obj.input.useHandCursor = true;
 	if(callback){
 		obj.events.onInputDown.add(function(e){
-			callback.apply(this,[e]);
+			callback(e);
 		});
 	}
 	if(callback2){
 		obj.events.onInputUp.add(function(e){
-			callback2.apply(this,[e]);
+			callback2(e);
 		});
 	}
 	return obj;
@@ -246,12 +246,12 @@ self.setHover = function(obj,callback,callback2){
 	obj.input.useHandCursor = true;
 	if(callback){
 		obj.events.onInputOver.add(function(e){
-			callback.apply(this,[e]);
+			callback(e);
 		});
 	}
 	if(callback2){
 		obj.events.onInputOut.add(function(e){
-			callback2.apply(this,[e]);
+			callback2(e);
 		});
 	}
 	return obj;
