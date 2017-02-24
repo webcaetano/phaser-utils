@@ -1,9 +1,7 @@
-if(!Phaser) var Phaser = require('phaser');
-if(!_) var _ = require('lodash');
+var Phaser = require('phaser');
+var _ = require('lodash');
 
 var self = {}
-
-self.noop = function(){};
 
 self.ang = {
 	to:{
@@ -205,9 +203,8 @@ self.dist = function(obj1,obj2){
 
 self.setBtn = function(obj,callback){
 	if(callback===undefined) callback=null;
-	if(!obj) return;
+	if(!obj || !obj.input) return;
 	if(!obj.inputEnabled) obj.inputEnabled = true;
-	if(!obj.input) return;
 	obj.input.useHandCursor = true;
 	if(callback){
 		obj.events.onInputUp.add(function(e){
@@ -219,9 +216,8 @@ self.setBtn = function(obj,callback){
 
 self.setBtnHold = function(obj,callback,callback2){
 	if(callback===undefined) callback=null;
-	if(!obj) return;
+	if(!obj || !obj.input) return;
 	if(!obj.inputEnabled) obj.inputEnabled = true;
-	if(!obj.input) return;
 	obj.input.useHandCursor = true;
 	if(callback){
 		obj.events.onInputDown.add(function(e){
@@ -240,9 +236,8 @@ self.setHover = function(obj,callback,callback2){
 	if(callback===undefined) callback=null;
 	if(callback2===undefined) callback2=null;
 
-	if(!obj) return;
+	if(!obj || !obj.input) return;
 	if(!obj.inputEnabled) obj.inputEnabled = true;
-	if(!obj.input) return;
 	obj.input.useHandCursor = true;
 	if(callback){
 		obj.events.onInputOver.add(function(e){
