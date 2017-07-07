@@ -1,13 +1,13 @@
 (function webpackUniversalModuleDefinition(root, factory) {
 	if(typeof exports === 'object' && typeof module === 'object')
-		module.exports = factory(require("Phaser"), require("_"));
+		module.exports = factory(require("Phaser"));
 	else if(typeof define === 'function' && define.amd)
-		define(["Phaser", "_"], factory);
+		define(["Phaser"], factory);
 	else if(typeof exports === 'object')
-		exports["$utils"] = factory(require("Phaser"), require("_"));
+		exports["$utils"] = factory(require("Phaser"));
 	else
-		root["$utils"] = factory(root["Phaser"], root["_"]);
-})(this, function(__WEBPACK_EXTERNAL_MODULE_1__, __WEBPACK_EXTERNAL_MODULE_2__) {
+		root["$utils"] = factory(root["Phaser"]);
+})(this, function(__WEBPACK_EXTERNAL_MODULE_1__) {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -57,7 +57,6 @@ return /******/ (function(modules) { // webpackBootstrap
 	'use strict';
 
 	var Phaser = __webpack_require__(1);
-	var _ = __webpack_require__(2);
 
 	var self = {};
 
@@ -73,8 +72,8 @@ return /******/ (function(modules) { // webpackBootstrap
 	};
 
 	self.randInRange = function (point, range) {
-		var a = _.random(0, 360, true) * (Math.PI / 180);
-		var d = _.random(0, range * 0.5, true);
+		var a = Math.random() * 360 * (Math.PI / 180);
+		var d = Math.random() * range * 0.5;
 		return {
 			x: point.x + Math.cos(a) * d,
 			y: point.y + Math.sin(a) * d
@@ -157,7 +156,9 @@ return /******/ (function(modules) { // webpackBootstrap
 		var resp = [];
 		var dist = self.dist(point1, point2);
 		var a = self.angleBetween(point1, point2);
-		return _.map(new Array(amount), function (val, i) {
+		return Array.apply(null, { length: 10 }).map(function (val, i) {
+			return i;
+		}).map(function (i) {
 			var currentPos = dist / (amount + 1) * (i + 1);
 			return {
 				x: point1.x + Math.cos(a) * currentPos,
@@ -183,7 +184,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	};
 
 	self.randomPointBetween = function (point1, point2) {
-		return self.pointBetweenPorcent(point1, point2, _.random(0, 100) / 100);
+		return self.pointBetweenPorcent(point1, point2, Math.random());
 	};
 
 	self.radPos = function (point, angle, range) {
@@ -296,12 +297,6 @@ return /******/ (function(modules) { // webpackBootstrap
 /***/ function(module, exports) {
 
 	module.exports = __WEBPACK_EXTERNAL_MODULE_1__;
-
-/***/ },
-/* 2 */
-/***/ function(module, exports) {
-
-	module.exports = __WEBPACK_EXTERNAL_MODULE_2__;
 
 /***/ }
 /******/ ])

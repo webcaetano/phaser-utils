@@ -1,5 +1,4 @@
 var Phaser = require('phaser');
-var _ = require('lodash');
 
 var self = {}
 
@@ -15,8 +14,8 @@ self.ang = {
 }
 
 self.randInRange = function(point,range){
-	var a = _.random(0,360,true) * (Math.PI / 180);
-	var d = _.random(0,range*0.5,true);
+	var a = (Math.random()*360) * (Math.PI / 180);
+	var d = Math.random()*range*0.5;
 	return {
 		x:point.x + Math.cos(a) * d,
 		y:point.y + Math.sin(a) * d
@@ -105,7 +104,7 @@ self.dotsBetween = function(point1,point2,amount){
 	var resp = [];
 	var dist = self.dist(point1,point2);
 	var a = self.angleBetween(point1,point2);
-	return _.map(new Array(amount),function(val,i){
+	return Array.apply(null, {length: 10}).map((val,i)=> i).map(function(i){
 		var currentPos = (dist/(amount+1))*(i+1);
 		return {
 			x:point1.x + Math.cos(a)*currentPos,
@@ -135,7 +134,7 @@ self.pointBetweenPorcent = function(point1,point2,por){
 }
 
 self.randomPointBetween = function(point1,point2){
-	return self.pointBetweenPorcent(point1,point2,_.random(0,100)/100);
+	return self.pointBetweenPorcent(point1,point2,Math.random());
 }
 
 self.radPos = function(point,angle,range){
